@@ -1,4 +1,4 @@
-https://leetcode.com/u/stats/
+![LeetCode Stats](https://leetcard.jacoblin.cool/odinfuturepro?theme=dark&font=ABeeZee&ext=heatmap)
 <!--
 **odinellefsen/odinellefsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
