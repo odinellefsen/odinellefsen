@@ -1,5 +1,4 @@
-![LeetCode Stats](https://img.shields.io/endpoint?url=https://leetcode.com/u/stats/)
-
+https://leetcode.com/u/stats/
 <!--
 **odinellefsen/odinellefsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
